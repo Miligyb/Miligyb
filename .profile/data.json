@@ -1,8 +1,8 @@
 {
- "key": "31da610e",
+ "key": "d45c0806",
  "stars": 0,
- "contributions": 8,
- "repos": 2,
+ "contributions": 10,
+ "repos": 3,
  "followers": 0,
  "languages": [
   [
@@ -10,12 +10,12 @@
    10497
   ],
   [
-   "CSS",
-   6894
+   "HTML",
+   9457
   ],
   [
-   "HTML",
-   2024
+   "CSS",
+   6894
   ]
  ],
  "days": [
@@ -115,7 +115,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 29,
     "today": true
    },
@@ -124,11 +124,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 1
  },
  "pins": [],
  "all": [
+  {
+   "name": "justwait",
+   "url": "https://github.com/Miligyb/justwait",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "Miligyb",
    "url": "https://github.com/Miligyb/Miligyb",
