@@ -1,13 +1,13 @@
 {
- "key": "722300e3",
+ "key": "b830dd16",
  "stars": 0,
- "contributions": 12,
- "repos": 4,
+ "contributions": 10,
+ "repos": 3,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   86349
+   78916
   ],
   [
    "JavaScript",
@@ -78,7 +78,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 29,
     "today": false
    },
@@ -122,9 +122,13 @@
    {
     "c": 0,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -136,15 +140,6 @@
   {
    "name": "LibraryOfBabel",
    "url": "https://github.com/Miligyb/LibraryOfBabel",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
-  },
-  {
-   "name": "justwait",
-   "url": "https://github.com/Miligyb/justwait",
    "text": "",
    "fork": false,
    "stars": 0,
