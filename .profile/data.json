@@ -1,5 +1,5 @@
 {
- "key": "73ef5f4d",
+ "key": "e5ecef37",
  "stars": 0,
  "contributions": 17,
  "repos": 5,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "HTML",
-   616327
+   617969
   ],
   [
    "Python",
@@ -144,7 +144,7 @@
   {
    "name": "the-dice-of-life",
    "url": "https://github.com/Miligyb/the-dice-of-life",
-   "text": "",
+   "text": "Dice of Life is a birth simulator game based on real statistics.",
    "fork": false,
    "stars": 0,
    "language": "HTML",
