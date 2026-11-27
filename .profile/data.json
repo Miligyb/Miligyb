@@ -1,13 +1,13 @@
 {
- "key": "6de6e4d5",
+ "key": "2e6ee8b6",
  "stars": 0,
- "contributions": 30,
- "repos": 5,
+ "contributions": 33,
+ "repos": 6,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   625290
+   1002733
   ],
   [
    "Python",
@@ -124,7 +124,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 27,
     "today": true
    },
@@ -132,11 +132,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
  "all": [
+  {
+   "name": "xicy",
+   "url": "https://github.com/Miligyb/xicy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "the-dice-of-life",
    "url": "https://github.com/Miligyb/the-dice-of-life",
